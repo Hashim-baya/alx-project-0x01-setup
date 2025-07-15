@@ -1,0 +1,1 @@
+const Posts: React.FC = () => <div>Posts</div>;
